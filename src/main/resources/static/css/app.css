@@ -1,0 +1,17 @@
+.card-comments img {
+    width: 4rem
+}
+
+.red-gradient {
+    background: linear-gradient(40deg, #FF3547, #FFBB33) !important;
+}
+
+.td-custom {
+    vertical-align: inherit !important;
+    font-size: larger;
+}
+
+.footer-custom {
+    color: black;
+    font-weight: bolder;
+}
